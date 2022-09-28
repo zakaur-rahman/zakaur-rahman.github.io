@@ -1449,6 +1449,18 @@ fieldset[disabled]
   box-shadow: none;
   outline: 0 !important;
 }
+.btn.btn-git:hover{
+  color: #000000;
+}
+.btn.btn-linked:hover{
+  color: hsl(203, 87%, 56%);
+}
+.btn.btn-face:hover{
+  color: #005cdd;
+}
+.btn.btn-insta:hover{
+  color: #dd1964;
+}
 
 .btn.btn-icon,
 .navbar .navbar-nav > a.btn.btn-icon {
@@ -7254,7 +7266,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-github:hover i {
-  color: #dd4b39;
+  color: #000000;
 }
 
 .cc-instagram:hover i {
